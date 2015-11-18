@@ -5,6 +5,7 @@ public class Movimiento : MonoBehaviour {
 
 	public float fuerzaSalto =200f;
 	public float velocidad_pollo = 50f;
+	private int numsaltos=0;
 	Rigidbody2D rg; //se le puede dar el nombre que quieras, en este caso rg
 
 	// Use this for initialization
@@ -15,7 +16,7 @@ public class Movimiento : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyUp(KeyCode.Space)){
+		/*if(Input.GetKeyUpKeyCode.Space)){
 			if(Time.timeScale>=1)
 			{
 			salto();
@@ -23,6 +24,19 @@ public class Movimiento : MonoBehaviour {
 			//GetComponent<Rigidbody2D>().AddForce (fuerzaSalto);// esto tambien se puede poner como: rg= GetComponent<Rigidbody2D>(); y despues rg.AddForce(fuerzaSalto);
 			}
 		}
+		*/
+		if(Input.GetKeyUp(KeyCode.Space))
+		{
+			numsaltos=1;
+			if(numsaltos==1)
+			{
+				salto();
+				GetComponent<Rigidbody2D>().AddForce (fuerzaSalto);
+				//Personaje.rg.AddForce(new Vector3 (0,10,0)), ForceMode.VelocityChange);
+			}
+		}
+
+
 		if(Input.GetKey(KeyCode.A)){
 			mueve_izquierda();
 		}
