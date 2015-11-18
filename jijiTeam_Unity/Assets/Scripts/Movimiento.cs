@@ -15,7 +15,7 @@ public class Movimiento : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKey(KeyCode.Space)){
+		if(Input.GetKeyUp(KeyCode.Space)){
 			if(Time.timeScale>=1)
 			{
 			salto();
