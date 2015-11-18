@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: c8f4a395ed6940b4581598231998e9fa
+timeCreated: 1447862889
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_0
+    21300002: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_1
+    21300004: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_2
+    21300006: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_3
+    21300008: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_4
+    21300010: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_5
+    21300012: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_6
+    21300014: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_7
+    21300016: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_8
+    21300018: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_9
+    21300020: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_10
+    21300022: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_11
+    21300024: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_12
+    21300026: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_13
+    21300028: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_14
+    21300030: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_15
+    21300032: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_16
+    21300034: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_17
+    21300036: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_18
+    21300038: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_19
+    21300040: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_20
+    21300042: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_21
+    21300044: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_22
+    21300046: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_23
+    21300048: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_24
+    21300050: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_25
+    21300052: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_26
+    21300054: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_27
+    21300056: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+      Stage_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 2136
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 1625
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 2691
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_3
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1399
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_4
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1280
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_5
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1280
+        width: 1430
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_6
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1280
+        width: 518
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_7
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 1280
+        width: 1043
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 563
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1024
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1024
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1024
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_12
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1024
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_13
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1024
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1024
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1024
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_16
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1024
+        width: 139
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_17
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1024
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_18
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1024
+        width: 878
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 1230
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1076
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 1280
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 435
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_24
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 999
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_26
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_27
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 0
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Donnys
+        Stage_28
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 0
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

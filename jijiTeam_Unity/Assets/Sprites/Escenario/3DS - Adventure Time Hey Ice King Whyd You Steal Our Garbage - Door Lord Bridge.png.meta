@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: e6a119f443c0f4341ba610ef31f39b07
+timeCreated: 1447862742
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_0
+    21300002: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_1
+    21300004: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_2
+    21300006: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_3
+    21300008: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_4
+    21300010: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_5
+    21300012: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_6
+    21300014: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_7
+    21300016: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_8
+    21300018: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_9
+    21300020: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_10
+    21300022: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_11
+    21300024: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_12
+    21300026: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_23
+    21300028: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_25
+    21300030: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_26
+    21300032: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_27
+    21300034: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_28
+    21300036: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_29
+    21300038: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door
+      Lord Bridge_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 138
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1536
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1536
+        width: 182
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1536
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1536
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_5
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1536
+        width: 183
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_6
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1536
+        width: 144
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_7
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1536
+        width: 176
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_8
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1536
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_9
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1536
+        width: 181
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_10
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1536
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_11
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 1536
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1814
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 1106
+        height: 499
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 179, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_25
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 188
+        width: 73
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_26
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 0
+        width: 1319
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_27
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 76
+        width: 73
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_28
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 64
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 130
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Door Lord
+        Bridge_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 844
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

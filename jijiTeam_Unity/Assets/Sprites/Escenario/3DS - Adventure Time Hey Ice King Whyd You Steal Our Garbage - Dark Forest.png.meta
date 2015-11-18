@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: ffe6380c041c30c44a407e07ef1de351
+timeCreated: 1447862856
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_0
+    21300002: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_1
+    21300004: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_2
+    21300006: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_3
+    21300008: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_4
+    21300010: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_5
+    21300012: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_6
+    21300014: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_7
+    21300016: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_8
+    21300018: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_9
+    21300020: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_10
+    21300022: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_11
+    21300024: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_12
+    21300026: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark
+      Forest_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 1240
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 253, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 517
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 202
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 266
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_4
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 0
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_5
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 0
+        width: 395
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_6
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 16
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 33
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_8
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 49
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_9
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 33
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_10
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 0
+        width: 503
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_11
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 0
+        width: 148
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_12
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 0
+        width: 519
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Dark Forest_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 1239
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 05f03f92ef6cbab4d9b6e7b9ebbad78b
+timeCreated: 1447862607
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+      Bridge (1)_0
+    21300002: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+      Bridge (1)_1
+    21300004: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+      Bridge (1)_2
+    21300006: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+      Bridge (1)_3
+    21300008: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+      Bridge (1)_4
+    21300010: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+      Bridge (1)_5
+    21300012: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+      Bridge (1)_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+        Bridge (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 705
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+        Bridge (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 768
+        width: 1256
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+        Bridge (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 768
+        width: 591
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+        Bridge (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1193
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+        Bridge (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 512
+        width: 1209
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+        Bridge (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 1863
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Adventure Time Hey Ice King Whyd You Steal Our Garbage - Redrock
+        Bridge (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2560
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
