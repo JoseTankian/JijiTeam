@@ -12,4 +12,12 @@ public class boton : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	public void jugar (){
+		Application.LoadLevel("Fase01");
+	}
+
+	public void salir(){
+		Application.Quit ();
+	}
 }
