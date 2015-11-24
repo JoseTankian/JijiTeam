@@ -36,7 +36,7 @@ public class DamageSystem : MonoBehaviour {
 		var position = new Vector3 (transform.position.x, transform.position.y, -5);
 		if(sangre != null){
 			var clone = Instantiate(sangre,position,Quaternion.identity) as GameObject;
-			clone.particleSystem.startColor =  Color.red;
+			clone.GetComponent<ParticleSystem>().startColor =  Color.red;
 			Destroy(clone,1);
 		}
 		

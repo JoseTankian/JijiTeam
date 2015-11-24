@@ -33,7 +33,7 @@ public class hurtSystem : MonoBehaviour {
 				ds.hurt (damage);
 				if (force > 0) {
 					var direction = target.transform.position - transform.position;
-					ds.rigidbody2D.AddForce (direction.normalized * force / 10, ForceMode2D.Impulse);
+					ds.GetComponent<Rigidbody2D>().AddForce (direction.normalized * force / 10, ForceMode2D.Impulse);
 	
 				}
 			}		
