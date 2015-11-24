@@ -60,6 +60,7 @@ public class Movimiento : MonoBehaviour {
 	
 		void salto(){
 			rg.AddForce(new Vector2 (0, fuerzaSalto));
+		     
 
 		}
 		
@@ -77,6 +78,14 @@ public class Movimiento : MonoBehaviour {
 		rg.velocity=(new Vector2 (velocidad,rg.velocity.y));
 
 		}
+
+	void OnCollisionEnter2D (Collision2D objeto){
+	if(objeto.transform.tag == "enemigo"){
+			anim.SetBool("muerto", true);
+	}
+	}
+
+
 
 
 
