@@ -8,7 +8,7 @@ public class Movimiento : MonoBehaviour {
 	private int numsaltos=0;
 	Rigidbody2D rg; //se le puede dar el nombre que quieras, en este caso rg
 	private Animator anim;
-	private Vector3 miraDerecha;
+	private Vector3 miraDerecha; //creamos dos vectores, uno para la mira derecha y otro para la izq
 	private Vector3 miraIzquierda;
 
 	// Use this for initialization
@@ -16,8 +16,8 @@ public class Movimiento : MonoBehaviour {
 
 		rg= GetComponent<Rigidbody2D>();
 		anim = GetComponent<Animator>();
-		miraIzquierda = new Vector3(-transform.localScale.x,transform.localScale.y,transform.localScale.z);
-		miraDerecha = transform.localScale;
+		miraIzquierda = new Vector3(-transform.localScale.x,transform.localScale.y,transform.localScale.z); //invertimos una de las escalas
+		miraDerecha = transform.localScale; //escala por defecto
 	}
 	
 	// Update is called once per frame
