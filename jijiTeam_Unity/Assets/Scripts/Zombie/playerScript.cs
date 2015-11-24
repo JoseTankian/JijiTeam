@@ -19,7 +19,7 @@ public class playerScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
-				var absVelX = Mathf.Abs (rigidbody2D.velocity.x);
+				var absVelX = Mathf.Abs (GetComponent<Rigidbody2D>().velocity.x);
 				var forceX = 0f;
 				var forceY = 0f;
 
@@ -27,8 +27,8 @@ public class playerScript : MonoBehaviour {
 		if(Input.GetKey ("right")) {
 
 			//esto lo que hace es frenar cuando voy a izquierda y pulso derecha
-			if (rigidbody2D.velocity.x < 0){
-				rigidbody2D.velocity = new Vector2(0,rigidbody2D.velocity.y);
+			if (GetComponent<Rigidbody2D>().velocity.x < 0){
+				GetComponent<Rigidbody2D>().velocity = new Vector2(0,GetComponent<Rigidbody2D>().velocity.y);
 			}
 		if (absVelX < maxVelocity.x)
 			forceX = speed;
@@ -38,8 +38,8 @@ public class playerScript : MonoBehaviour {
 	else if (Input.GetKey ("left"))
 	        {
 			//esto lo que hace es frenar cuando voy a derecha y pulso izquierda
-			if(rigidbody2D.velocity.x > 0){
-				rigidbody2D.velocity = new Vector2(0,rigidbody2D.velocity.y);
+			if(GetComponent<Rigidbody2D>().velocity.x > 0){
+				GetComponent<Rigidbody2D>().velocity = new Vector2(0,GetComponent<Rigidbody2D>().velocity.y);
 			}
 
 			if(absVelX < maxVelocity.x)
@@ -48,7 +48,7 @@ public class playerScript : MonoBehaviour {
 			//esto de abajo pone al script mirando a la izquierda.
 		this.transform.localScale = new Vector3 (-1, 1, 1);
 			}
-	rigidbody2D.AddForce (new Vector2 (forceX, forceY));
+	GetComponent<Rigidbody2D>().AddForce (new Vector2 (forceX, forceY));
 	
 		if (absVelX > 0)
 						animator.SetFloat ("Velocity", absVelX);

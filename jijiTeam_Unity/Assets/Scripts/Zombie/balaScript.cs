@@ -10,7 +10,7 @@ public class balaScript : MonoBehaviour {
 
 	void Start () {
 		//rigidbody2D.velocity = velocity * transform.localScale.x;
-		rigidbody2D.AddForce (velocity * transform.localScale.x, ForceMode2D.Impulse);
+		GetComponent<Rigidbody2D>().AddForce (velocity * transform.localScale.x, ForceMode2D.Impulse);
 		//En vez de velocity, al hacerlo de la manera AddForce y el ForceMode2D.Impulse la bala recibira un impulso
 	}
 

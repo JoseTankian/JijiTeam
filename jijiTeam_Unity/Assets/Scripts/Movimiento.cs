@@ -31,7 +31,7 @@ public class Movimiento : MonoBehaviour {
 			if(numsaltos==1)
 			{
 				salto();
-				GetComponent<Rigidbody2D>().AddForce (fuerzaSalto);
+				GetComponent<Rigidbody2D>().AddForce (new Vector2(fuerzaSalto,fuerzaSalto));
 				//Personaje.rg.AddForce(new Vector3 (0,10,0)), ForceMode.VelocityChange);
 			}
 		}
